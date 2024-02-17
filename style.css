@@ -29,6 +29,7 @@ body {
   grid-template-columns: repeat(3, 1fr);
   min-width: 100vh;
   padding: 50px;
+  gap: 9px;
 }
 
 .watermark {
